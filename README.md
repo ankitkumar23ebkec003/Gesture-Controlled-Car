@@ -41,10 +41,10 @@ The MPU6050 sensor detects the tilt movement of the hand. The transmitter Arduin
 Completed
 ## Project Images
 
-![Gesture Controlled Car](IMG_20250809_070428.jpg)
+![Gesture Controlled Car](IMG_20260709_112344.jpg)
 
-![Transmitter Circuit](IMG_20250810_074738.jpg)
+![Transmitter Circuit](IMG_20260709_112445.jpg)
 
-![Receiver Car Setup](IMG_20250810_075045.jpg)
+![Receiver Car Setup](IMG_20260709_112546.jpg)
 
-![Final Project Setup](IMG_20250810_073248.jpg)
+![Final Project Setup](IMG_20260709_112628.jpg)
