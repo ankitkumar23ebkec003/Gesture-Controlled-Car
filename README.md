@@ -1,5 +1,4 @@
 # Gesture-Controlled-Car
-# Gesture Controlled Car
 
 ## Introduction
 This project is an Arduino-based Gesture Controlled Car. It uses an MPU6050 accelerometer sensor to detect hand gestures and sends commands wirelessly through Bluetooth to control the movement of the car.
